@@ -14,6 +14,6 @@ int main() {
 	cout << "3. Implementação: Codificar a solução" << endl;
 	cout << "4. Testar e depurar" << endl;
 	cout << "5. Manter e documentar" << endl;
-	cout << "6. Adicionar mecanismos de segurança" << endl;
+	// cout << "6. Adicionar mecanismos de segurança" << endl;
 	return 0;
 }
